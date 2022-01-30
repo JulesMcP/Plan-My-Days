@@ -1,6 +1,6 @@
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-family: 'Dongle', sans-serif;
+  font-size: 20px;
   line-height: 1;
 }
 
@@ -15,10 +15,15 @@ textarea{
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
-  color: black;
+  background-color: #132CD1;
+  color: whitesmoke;
   border-radius: 0;
   border-bottom: 10px solid black;
+}
+
+.lead {
+  font-size: 1.75rem;
+  font-weight: 300;
 }
 
 .description{
@@ -43,17 +48,17 @@ textarea{
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color:#676A9C;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #45DDDD;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #20EE94;
   color: white;
 }
 
