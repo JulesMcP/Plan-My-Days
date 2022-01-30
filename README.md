@@ -1,5 +1,5 @@
 # Plan-My-Days 
-# Bootcamp Challenge #5: Work Day Scheduler
+  * Bootcamp Challenge #5: Work Day Scheduler
 
 ## TABLE OF CONTENTS
 * [Introduction](#INTRODUCTION)
