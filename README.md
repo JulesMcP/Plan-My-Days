@@ -23,7 +23,7 @@ This project features HTML, CSS, JavaScript, Bootstrap, JQuery, Font Awesome, Go
 Original challenge, CSS and HTML source code presented by Trilogy Education Services.
 
 ## SCREENSHOT
-
+![image](https://user-images.githubusercontent.com/95149604/152699987-35c20b63-c06c-463a-b95a-23bd9b5c7f24.png)
 
 ## LINK 
 Application can be found here: https://julesmcp.github.io/Plan-My-Days/
