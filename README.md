@@ -26,7 +26,7 @@ Original challenge, CSS and HTML source code presented by Trilogy Education Serv
 
 
 ## LINK 
-Application can be found here:
+Application can be found here: https://julesmcp.github.io/Plan-My-Days/
 
 ## CONTACT
 Created by [@JulesMcP](https://github.com/JulesMcP/Plan-My-Days)
